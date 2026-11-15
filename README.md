@@ -35,3 +35,11 @@ Python, Pandas, NumPy, BeautifulSoup, SQLite, Scikit-learn, Matplotlib, Seaborn,
 
 ## Project Status
 In progress.
+
+## Initial Setup Completed
+
+- Python 3.12.10 installed and verified.
+- Git installed and configured.
+- Project folder structure created.
+- GitHub public repository created.
+- Initial Git commit completed.
