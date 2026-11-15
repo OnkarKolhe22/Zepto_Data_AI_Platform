@@ -34,7 +34,8 @@ Python, Pandas, NumPy, BeautifulSoup, SQLite, Scikit-learn, Matplotlib, Seaborn,
 - support_assistant/
 
 ## Project Status
-In progress.
+
+Completed — all three capstone modules have been implemented and uploaded to the public GitHub repository.
 
 ## Initial Setup Completed
 
